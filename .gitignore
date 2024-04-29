@@ -1,3 +1,2 @@
 *.pyc                                       # Ignoruj všechny soubory s příponou .pyc       
 .idea/                                      # Ignoruj všechny soubory v adresáři .idea/
-script.py
